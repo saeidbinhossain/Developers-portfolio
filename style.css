@@ -1,0 +1,99 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+    font-size: 100px;
+}
+.orrange-color {
+    color: orange;
+}
+.flex{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-top: 10px;
+    padding-left: 30px;
+    
+
+}
+.half-width img{
+    width: 80%;
+    height: 80%;
+}
+.orrange-line{
+    border-left: 10px solid orange;;
+    padding-left: 10px;
+}
+.link-color{
+    text-decoration: none;
+    background-color: red;
+    background-image: linear-gradient(red, orange);
+    padding-top: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    font-size: 35px;
+}
+.center{
+    text-align: center;
+    font-size: 70px;
+}
+.one-third{
+    box-shadow: 10px 10px 30px bisque;
+    width: 25%;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding: 10px;
+    
+}
+.flexs{
+    display: flex;
+}
+.box{
+    background-color:bisque;
+    border-radius: 5%;
+}
+.boxs{
+    background-color:burlywood ;
+    border-radius: 5%;
+}
+.boxss{
+    background-color:beige;
+    border-radius: 5%;
+}
+h2{
+    font-size: 65px;
+}
+.pad{
+    padding-top: 150px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#back{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 15%;
+
+}
+p{
+    font-size: 40px;
+}
+.backs{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 15%;
+}
+#qu{
+    color: red;
+}
+footer{
+    text-align: center;
+}
+.text-color{
+    color: rgb(202, 187, 187);
+    font-size: 35px;
+    background-color: black;
+}
